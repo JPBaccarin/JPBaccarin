@@ -5,12 +5,7 @@
 
 <h3 align="center">Programador Full-Stack</h3>
 
-Olá! Meu nome é João Pedro, e sou um entusiasta da programação. Apaixonado por desenvolvimento de sistemas, tenho explorado diferentes linguagens de programação e tecnologias para criar soluções inovadoras.
-Iniciei minha jornada na programação aos 13 anos e, desde então, tenho me dedicado a aprimorar minhas habilidades. Atualmente, sou estudante do curso de Desenvolvimento de Sistemas na ETEC Deputado Salim Sedeh, onde estou aprendendo conceitos avançados e colocando-os em prática.
-Tenho experiência em projetos de desenvolvimento web, trabalhando com linguagens como javascript e php e frameworks como react.js e node.js. Meu foco é construir soluções eficientes e escaláveis, garantindo a melhor experiência para os usuários.
-Estou sempre em busca de novos desafios e oportunidades de aprendizado. Sou apaixonado por acompanhar as tendências tecnológicas e aprender novas ferramentas que possam me auxiliar no desenvolvimento de software.
-No meu tempo livre, gosto de estudar sobre os frameworks e linguagens que uso. Além disso, estou sempre explorando novas ideias e desenvolvendo projetos pessoais para aprimorar minhas habilidades.
-Estou aberto a colaborações e oportunidades de trabalho em projetos interessantes.
+Olá! Sou João Pedro, apaixonado por desenvolvimento de sistemas. Estudo Desenvolvimento de Sistemas na ETEC Deputado Salim Sedeh e tenho experiência em projetos web com JavaScript, PHP, React.js e Node.js. Busco constantemente desafios, aprendizado e atualização tecnológica. No meu tempo livre, estudo frameworks e linguagens, além de trabalhar em projetos pessoais para aprimorar minhas habilidades. Estou aberto a colaborações e oportunidades de trabalho em projetos interessantes.
 <br>
 <h3 align="left">Linguagens e Frameworks:</h3>
 
@@ -78,5 +73,5 @@ Estou aberto a colaborações e oportunidades de trabalho em projetos interessan
   <div style="width: 100%; margin-top: 2rem; max-width: 600px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jpbaccarin" style="width: 100%;"/>
   </div>
-</div
+</div>
 
