@@ -68,14 +68,15 @@ Estou aberto a colaborações e oportunidades de trabalho em projetos interessan
 
 <div style="margin: 2rem;">
   <div style="display: flex; justify-content: space-between;">
-    <div style="width: 20%;">
+    <div style="flex: 1; margin-right: 10px; max-width: 300px;">
       <img src="https://github-readme-stats.vercel.app/api?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jpbaccarin" style="width: 100%;"/>
     </div>
-    <div style="width: 20%;">
+    <div style="flex: 1; margin-left: 10px; max-width: 300px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPBaccarin&theme=vue-dark&hide_border=true" alt="jpbaccarin" style="width: 100%;"/>
     </div>
   </div>
-  <div style="width: 20%; margin-top: 2rem;">
+  <div style="width: 100%; margin-top: 2rem; max-width: 600px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jpbaccarin" style="width: 100%;"/>
   </div>
-</div>
+</div
+
