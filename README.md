@@ -67,9 +67,11 @@ Estou aberto a colaborações e oportunidades de trabalho em projetos interessan
 
 
 <div style="margin: 2rem;">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jpbaccarin" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JPBaccarin&theme=vue-dark&hide_border=true" alt="jpbaccarin" /></p>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jpbaccarin" /></p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jpbaccarin" width="48%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPBaccarin&theme=vue-dark&hide_border=true" alt="jpbaccarin" width="48%"/>
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jpbaccarin" width="100%"/>
+  </p>
 </div>
