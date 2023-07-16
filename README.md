@@ -15,7 +15,7 @@ Estou aberto a colaborações e oportunidades de trabalho em projetos interessan
 <h3 align="left">Linguagens e Frameworks:</h3>
 
 <div style="margin: 2rem;">
-  <p align="left">
+  <p align="left" style="display: flex; justify-content: space-between;">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="margin-right: 8px"/>
     </a>
@@ -66,16 +66,16 @@ Estou aberto a colaborações e oportunidades de trabalho em projetos interessan
 </div>
 
 
-<div style="margin: 2rem; display: flex; flex-direction: column; align-items: center;">
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <div style="flex: 1; margin-right: 10px;">
+<div style="margin: 2rem;">
+  <div style="display: flex; justify-content: space-between;">
+    <div style="width: 20%;">
       <img src="https://github-readme-stats.vercel.app/api?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jpbaccarin" style="width: 100%;"/>
     </div>
-    <div style="flex: 1; margin-left: 10px;">
+    <div style="width: 20%;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPBaccarin&theme=vue-dark&hide_border=true" alt="jpbaccarin" style="width: 100%;"/>
     </div>
   </div>
-  <div style="width: 100%;">
+  <div style="width: 20%; margin-top: 2rem;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jpbaccarin" style="width: 100%;"/>
   </div>
 </div>
