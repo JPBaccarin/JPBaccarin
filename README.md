@@ -1,16 +1,10 @@
 <h1 align="center">👾 João Pedro</h1>
-
-
-
-
 <h3 align="center">Programador Full-Stack</h3>
-
 Olá! Sou João Pedro, apaixonado por desenvolvimento de sistemas. Estudo Desenvolvimento de Sistemas na ETEC Deputado Salim Sedeh e tenho experiência em projetos web com JavaScript, PHP, React.js e Node.js. Busco constantemente desafios, aprendizado e atualização tecnológica. No meu tempo livre, estudo frameworks e linguagens, além de trabalhar em projetos pessoais para aprimorar minhas habilidades. Estou aberto a colaborações e oportunidades de trabalho em projetos interessantes.
 <br>
 <h3 align="left">Linguagens e Frameworks:</h3>
-
 <div style="margin: 2rem;">
-  <p align="left" style="display: flex; justify-content: space-between;">
+  <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="margin-right: 8px"/>
     </a>
@@ -56,23 +50,14 @@ Olá! Sou João Pedro, apaixonado por desenvolvimento de sistemas. Estudo Desenv
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 8px"/>
     </a>
-   
   </p>
 </div>
-
-
-<div style="margin: 2rem;">
-  <div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; margin-right: 10px; max-width: 150px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jpbaccarin" style="width: 100%;"/>
-    </div>
-    <div style="flex: 1; margin-left: 10px; max-width: 150px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPBaccarin&theme=vue-dark&hide_border=true" alt="jpbaccarin" style="width: 100%;"/>
-    </div>
-    <div style="flex: 1; margin-left: 10px; max-width: 150px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jpbaccarin" style="width: 100%;"/>
-    </div>
-  </div>
+<br>
+<div >
+    <img src="https://github-readme-stats.vercel.app/api?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jpbaccarin" style="max-width: 100%;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPBaccarin&theme=vue-dark&hide_border=true" alt="jpbaccarin" style="max-width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jpbaccarin" style="max-width: 100%;"/>
 </div>
+
 
 
