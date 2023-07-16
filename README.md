@@ -66,12 +66,16 @@ Estou aberto a colaborações e oportunidades de trabalho em projetos interessan
 </div>
 
 
-<div style="margin: 2rem;">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jpbaccarin" width="48%"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPBaccarin&theme=vue-dark&hide_border=true" alt="jpbaccarin" width="48%"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jpbaccarin" width="100%"/>
-  </p>
+<div style="margin: 2rem; display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: space-between; width: 100%;">
+    <div style="flex: 1; margin-right: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jpbaccarin" style="width: 100%;"/>
+    </div>
+    <div style="flex: 1; margin-left: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JPBaccarin&theme=vue-dark&hide_border=true" alt="jpbaccarin" style="width: 100%;"/>
+    </div>
+  </div>
+  <div style="width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPBaccarin&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jpbaccarin" style="width: 100%;"/>
+  </div>
 </div>
