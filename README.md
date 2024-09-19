@@ -1,6 +1,6 @@
 <h1 align="center">👾 João Pedro</h1>
 <h3 align="center">Programador Full-Stack</h3>
-Olá! Sou João Pedro, apaixonado por desenvolvimento de sistemas. Estudo Desenvolvimento de Sistemas na ETEC Deputado Salim Sedeh e tenho experiência em projetos web com JavaScript, PHP, React.js e Node.js. Busco constantemente desafios, aprendizado e atualização tecnológica. No meu tempo livre, estudo frameworks e linguagens, além de trabalhar em projetos pessoais para aprimorar minhas habilidades. Estou aberto a colaborações e oportunidades de trabalho em projetos interessantes.
+Olá! Meu nome é João Pedro, e sou apaixonado por programação. Faço Desenvolvimento de Sistemas na ETEC Deputado Salim Sedeh e tenho experiência em projetos web com JavaScript, PHP, React.js e Node.js. Busco constantemente desafios, aprendizado e inovação. No meu tempo livre, estudo frameworks e linguagens, além de trabalhar em projetos pessoais para aprimorar minhas habilidades. Estou aberto a colaborações e oportunidades de trabalho em projetos interessantes.
 <br>
 <h3 align="left">Linguagens e Frameworks:</h3>
 <div style="margin: 2rem;">
