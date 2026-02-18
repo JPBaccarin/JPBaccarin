@@ -3,10 +3,10 @@
 <div align="center">
   
   <p align="center">
-    <a href="https://linkedin.com/in/joao-pedro-baccarin">
+    <a href="[https://linkedin.com/in/joao-pedro-baccarin](https://www.linkedin.com/in/joao-pedro-baccarin-sardinha/)">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:contato@jpbaccarin.com">
+    <a href="mailto:contato@joaopedrobaccarin123@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
     <a href="https://jpbaccarin.github.io/Portfolio/">
@@ -46,17 +46,5 @@ Desenvolvedor **Full-Stack** | Formado em Desenvolvimento de Sistemas pela **ETE
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JPBaccarin&theme=nord&hide_border=true" />
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/joao-pedro-baccarin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/jp_baccarin" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
-
 <br />
 
-<div align="center">
-  <sub>João Pedro Baccarin</sub>
-</div>
