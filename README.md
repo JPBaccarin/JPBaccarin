@@ -33,9 +33,9 @@ Desenvolvedor **Full-Stack** | Formado em Desenvolvimento de Sistemas pela **ETE
 
 ### 🌟 Projetos
 
-- **[Learn Space](https://github.com/JPBaccarin/learn-space)**: Plataforma educacional completa (React/PHP).
+- **[Learn Space](https://github.com/JPBaccarin/learn-space)**: Plataforma educacional completa (Next.js/TS).
 - **[Automata Marketing](https://github.com/JPBaccarin/Automata-Marketing)**: Sistema de automação focado em marketing digital.
-- **[Calc All](https://github.com/JPBaccarin/calc-all)**: Calculadora multifuncional avançada.
+- **[Calc All](https://github.com/JPBaccarin/calc-all)**: Calculadora de física feita para a feira cientifica da ETEC, vencedora do premio DEVCoffee em 2022.
 - **[GameDB](https://github.com/JPBaccarin/GameDB-Nextjs)**: Busca de jogos via API RAWG (Next.js/TS).
 
 ---
