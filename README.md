@@ -1,7 +1,6 @@
 # 👨‍💻 João Pedro Baccarin
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glass&color=auto&height=150&section=header&text=João%20Pedro&fontSize=70&animation=fadeIn&fontAlignY=38" width="100%" />
   
   <p align="center">
     <a href="https://linkedin.com/in/joao-pedro-baccarin">
